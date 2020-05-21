@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ContentModelStore">
+    <e p="C:\Users\ezzie\.Rider2019.3\system\extResources" t="IncludeRecursive" />
+    <e p="C:\Users\ezzie\.Rider2019.3\system\resharper-host\local\Transient\ReSharperHost\v193\SolutionCaches\_cwiczenie3.-1855984430.00" t="ExcludeRecursive" />
+    <e p="C:\Users\ezzie\Desktop\studia\6SEMESTR\APBD\repo\cw7\cwiczenie4" t="IncludeFlat">
+      <e p="cwiczenie3.sln" t="IncludeFlat" />
+      <e p="cwiczenie4" t="IncludeRecursive">
+        <e p="appsettings.Development.json" t="Include" />
+        <e p="appsettings.json" t="Include" />
+        <e p="bin" t="ExcludeRecursive" />
+        <e p="Controllers" t="Include">
+          <e p="EnrollmentsController.cs" t="Include" />
+          <e p="StudentsController.cs" t="Include" />
+        </e>
+        <e p="cwiczenie4.csproj" t="IncludeRecursive" />
+        <e p="DAL" t="Include">
+          <e p="IDbService.cs" t="Include" />
+          <e p="MockDbService.cs" t="Include" />
+        </e>
+        <e p="DTO" t="Include">
+          <e p="LoginRequest.cs" t="Include" />
+          <e p="PostStudentRequest.cs" t="Include" />
+          <e p="PromoteStudentRequest.cs" t="Include" />
+        </e>
+        <e p="Handler" t="Include">
+          <e p="PasswordHandler.cs" t="Include" />
+        </e>
+        <e p="Middleware" t="Include">
+          <e p="LoggingMiddleware.cs" t="Include" />
+        </e>
+        <e p="Models" t="Include">
+          <e p="Enrollment.cs" t="Include" />
+          <e p="Student.cs" t="Include" />
+          <e p="Studies.cs" t="Include" />
+        </e>
+        <e p="obj" t="ExcludeRecursive">
+          <e p="Debug" t="Include">
+            <e p="netcoreapp3.1" t="Include">
+              <e p="cwiczenie4.AssemblyInfo.cs" t="Include" />
+            </e>
+          </e>
+        </e>
+        <e p="Program.cs" t="Include" />
+        <e p="Properties" t="Include">
+          <e p="launchSettings.json" t="Include" />
+        </e>
+        <e p="Services" t="Include">
+          <e p="AuthenticationResult.cs" t="Include" />
+          <e p="IStudentsDbService.cs" t="Include" />
+          <e p="SqlServerDbService.cs" t="Include" />
+        </e>
+        <e p="Startup.cs" t="Include" />
+        <e p="WeatherForecast.cs" t="Include" />
+      </e>
+      <e p="packages" t="ExcludeRecursive" />
+    </e>
+  </component>
+</project>
